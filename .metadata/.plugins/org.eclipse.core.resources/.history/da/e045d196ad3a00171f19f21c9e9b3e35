@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<music>
+    <song>
+        <id>01</id>
+        <title>Shape of You</title>
+        <singer>Ed Sheeran</singer>
+        <duration>3:54</duration>
+        <icon>edsheeran</icon>
+    </song>
+    <song>
+        <id>02</id>
+        <title>Lạc Trôi</title>
+        <singer>Sơn Tùng MTP</singer>
+        <duration>3:53</duration>
+        <icon>tungnui</icon>
+    </song>
+    <song>
+        <id>03</id>
+        <title>Yêu là "Tha Thu"</title>
+        <singer>OnlyC</singer>
+        <duration>4:33</duration>
+        <icon>onlyc</icon>
+    </song>
+    <song>
+        <id>04</id>
+        <title>Em Chưa 18</title>
+        <singer>Will(365), Lou Hoàng</singer>
+        <duration>3:34</duration>
+        <icon>willlouhoang</icon>
+    </song>
+    <song>
+        <id>05</id>
+        <title>Học Cách Đi Một Mình</title>
+        <singer>Lương Bích Hữu</singer>
+        <duration>3:43</duration>
+        <icon>luongbichhuu</icon>
+    </song>
+    <song>
+        <id>06</id>
+        <title>Sugar</title>
+        <singer>Maroon 5</singer>
+        <duration>3:56</duration>
+        <icon>maroon5</icon>
+    </song>
+    <song>
+        <id>07</id>
+        <title>Somebody's Me</title>
+        <singer>Enrique Iglesias</singer>
+        <duration>3:58</duration>
+        <icon>iglesias</icon>
+    </song>
+</music>
